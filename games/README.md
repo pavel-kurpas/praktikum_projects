@@ -38,11 +38,11 @@
     * проверка гипотезы о равенстве средних пользовательских оценок жанров Action и Sports
     
 Использовались библиотеки:
-    * `pandas`
-    * `matplotlib`
-    * `seaborn`
-    * `numpy`
-    * `scipy`
+    - `pandas`
+    - `matplotlib`
+    - `seaborn`
+    - `numpy`
+    - `scipy`
     
     
 **Результаты:**
